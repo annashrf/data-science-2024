@@ -1,1 +1,1 @@
-Perkenalkan nama saya Anna Sharifunnisak biasa dipanggil Anna... saya adalah mahasiswi dari universitas siber asia angkatan 2024.. disini mata kuliah pada semester 4 salah satunya adalah Data Science :)
+Perkenalkan nama saya Anna... saya adalah mahasiswi dari universitas siber asia angkatan 2024.. disini mata kuliah pada semester 4 salah satunya adalah Data Science :)
